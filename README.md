@@ -1,4 +1,4 @@
-# Useful Algorithms Repository
+# Helpful Algorithms Repository
 
 The "Useful Algorithms" repository serves as a comprehensive collection of key algorithmic methodologies, each with unique and practical applications in industry and academia. Spanning a range of fields, from data structures and graph theory to matrix factorizations and image processing, this repository highlights the depth of mathematical principles in these real world applications. 
 
